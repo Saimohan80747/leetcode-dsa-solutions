@@ -30,3 +30,41 @@ class Solution {
         }
     }
 }
+// class DisjointSet{
+//     DisjointSet(int V){
+//        int par[]=new int[V+1];
+//        int rnk[]=new int[V+1];
+//        for(int i=0;i<=V;i++){
+//           par[i]=i;
+//        }
+//     }
+
+//     int findpar(int node){
+//         if(node==par[node]) return node;
+//         return par[node]=findpar(par[node]);
+//     }
+
+//     void union(int a,int b){
+//         int ulpar_a=findpar(a);
+//         int ulpar_b=findpar(b);
+//         if(ulpar_a==ulpar_b) return;
+//         if(rnk[ulpar_a]>rnk[ulpar_b]){
+//             par[ulpar_b]=ulpar_a;
+//         }else if(rnk[ulpar_a]<rnk[ulpar_b]){
+//             par[ulpar_a]=ulpar_b;
+//         }else{
+//             par[ulpar_a]=ulpar_b;
+//             rnk[ulpar_a]++;
+//         }
+//     }
+// }
+
+// class Solution {
+//     public boolean[] pathExistenceQueries(int n, int[] nums, int maxDiff, int[][] queries) {
+//         int l=0,r=n-1;
+//         while(l>r){
+//             if(nums[r]-nums[l]>maxDiff) r--;
+//             else if(nums)
+//         }
+//     }
+// }
