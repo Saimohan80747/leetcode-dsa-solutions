@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0802-find-eventual-safe-states) |
 | [1377-frog-position-after-t-seconds](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1377-frog-position-after-t-seconds) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1288-remove-covered-intervals](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1288-remove-covered-intervals) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0130-surrounded-regions) |
 | [0785-is-graph-bipartite](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0785-is-graph-bipartite) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Math
 |  |
 | ------- |
@@ -103,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Binary Search
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
