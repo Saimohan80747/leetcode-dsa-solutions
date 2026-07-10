@@ -1,42 +1,36 @@
 class DisjointSet{
     int[] par;
-    int[] rank;
+    int[] size;
+    int components;
     int n;
     DisjointSet(int V){
         par=new int[V];
-        rank=new int[V];
+        size=new int[V];
         n=V;
+        components=n;
         for(int i=0;i<n;i++){
             par[i]=i;
+            size[i]=1;
         }
-    }
-    int max_stones_removed(){
-        int ans=0;
-        int[] cnt=new int[n];
-        for(int i=0;i<n;i++){
-            if(par[i]!=i) cnt[par[i]]++;
-        }
-        for(int i=0;i<n;i++){
-            ans+=cnt[i];
-        }
-
-        return ans;
     }
     int findpar(int node){
-        if(node==par[node]) return node;
-        return par[node]=findpar(par[node]);
+        while(node!=par[node]){
+            par[node]=par[par[node]];
+            node=par[node];
+        }
+        return node;
     }
     void union(int a,int b){
         int ul_a=findpar(a);
         int ul_b=findpar(b);
         if(ul_a==ul_b) return;
-        if(rank[ul_a]>rank[ul_b]){
+        components--;
+        if(size[ul_a]>size[ul_b]){
             par[ul_b]=ul_a;
-        }else if(rank[ul_a]<rank[ul_b]){
-             par[ul_a]=ul_b;
+            size[ul_a]+=size[ul_b];
         }else{
-            par[ul_b]=ul_a;
-            rank[ul_a]++;
+            par[ul_a]=ul_b;
+            size[ul_b]+=size[ul_a];
         }
     }
 
@@ -47,13 +41,24 @@ class Solution {
     public int removeStones(int[][] stones) {
         int n=stones.length;
         DisjointSet ds=new DisjointSet(n);
+        int[] row = new int[10001];
+        int[] col = new int[10001];
+
+        Arrays.fill(row,-1);
+        Arrays.fill(col,-1);
         for(int i=0;i<n;i++){
-            int s1[]=stones[i];
-            for(int j=i+1;j<n;j++){
-                int s2[]=stones[j];
-                if(s1[0]==s2[0] || s1[1]==s2[1]) ds.union(i,j);
-            }
+            
+            if(row[stones[i][0]]==-1)
+                row[stones[i][0]]=i;
+            else
+                ds.union(i,row[stones[i][0]]);
+            
+            if(col[stones[i][1]]==-1)
+                col[stones[i][1]]=i;
+            else
+                ds.union(i,col[stones[i][1]]);
         }
-        return ds.max_stones_removed();
+
+        return n-ds.components;
     }
 }
