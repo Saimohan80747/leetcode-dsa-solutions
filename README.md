@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1377-frog-position-after-t-seconds](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1377-frog-position-after-t-seconds) |
+| [2685-count-the-number-of-complete-components](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1377-frog-position-after-t-seconds](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1377-frog-position-after-t-seconds) |
+| [2685-count-the-number-of-complete-components](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1377-frog-position-after-t-seconds](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1377-frog-position-after-t-seconds) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2685-count-the-number-of-complete-components](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2685-count-the-number-of-complete-components](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Math
 |  |
