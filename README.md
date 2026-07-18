@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0012-integer-to-roman) |
 | [0282-expression-add-operators](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0282-expression-add-operators) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0012-integer-to-roman) |
 | [0282-expression-add-operators](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0282-expression-add-operators) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0012-integer-to-roman) |
 | [0146-lru-cache](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0496-next-greater-element-i) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
