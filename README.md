@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0282-expression-add-operators) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0274-h-index) |
 | [1288-remove-covered-intervals](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0274-h-index) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bit Manipulation
 |  |
 | ------- |
