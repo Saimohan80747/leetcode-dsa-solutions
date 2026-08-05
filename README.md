@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1377-frog-position-after-t-seconds](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1377-frog-position-after-t-seconds) |
 | [2685-count-the-number-of-complete-components](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1377-frog-position-after-t-seconds](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1377-frog-position-after-t-seconds) |
 | [2685-count-the-number-of-complete-components](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1377-frog-position-after-t-seconds](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1377-frog-position-after-t-seconds) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2685-count-the-number-of-complete-components](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
