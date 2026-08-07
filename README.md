@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0542-01-matrix) |
 | [0743-network-delay-time](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0743-network-delay-time) |
+| [0752-open-the-lock](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0994-rotting-oranges) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0542-01-matrix) |
 | [0735-asteroid-collision](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0735-asteroid-collision) |
+| [0752-open-the-lock](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0752-open-the-lock) |
 | [0877-stone-game](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0012-integer-to-roman) |
 | [0282-expression-add-operators](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0282-expression-add-operators) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0752-open-the-lock](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0752-open-the-lock) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0012-integer-to-roman) |
 | [0146-lru-cache](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0496-next-greater-element-i) |
+| [0752-open-the-lock](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0752-open-the-lock) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1331-rank-transform-of-an-array](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -257,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0877-stone-game) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
