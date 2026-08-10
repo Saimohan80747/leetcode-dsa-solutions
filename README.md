@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0877-stone-game) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0062-unique-paths) |
 | [0282-expression-add-operators](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0282-expression-add-operators) |
 | [0486-predict-the-winner](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0877-stone-game) |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0752-open-the-lock](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0752-open-the-lock) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
