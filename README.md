@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1563-stone-game-v](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0877-stone-game) |
+| [1563-stone-game-v](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1563-stone-game-v) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Union-Find
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1563-stone-game-v](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0877-stone-game) |
+| [1563-stone-game-v](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1563-stone-game-v) |
 ## Bidirectional Search
 |  |
 | ------- |
