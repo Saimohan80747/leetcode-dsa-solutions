@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0039-combination-sum) |
 | [0057-insert-interval](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0057-insert-interval) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0018-4sum) |
 | [0274-h-index](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0274-h-index) |
 | [1288-remove-covered-intervals](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0018-4sum) |
 | [0234-palindrome-linked-list](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
