@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0130-surrounded-regions) |
 | [0274-h-index](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0274-h-index) |
+| [0289-game-of-life](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0289-game-of-life) |
 | [0486-predict-the-winner](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0542-01-matrix) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0130-surrounded-regions) |
+| [0289-game-of-life](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1260-shift-2d-grid) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
