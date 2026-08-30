@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1563-stone-game-v](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
