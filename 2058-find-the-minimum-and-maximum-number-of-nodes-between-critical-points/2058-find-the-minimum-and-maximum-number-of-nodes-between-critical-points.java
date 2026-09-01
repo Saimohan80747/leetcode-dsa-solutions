@@ -16,15 +16,9 @@ class Solution {
         int idx=1,first=-1,last=-1;
         while(temp.next!=null){
             if((temp.val<prev.val && temp.val<temp.next.val) || (temp.val>prev.val && temp.val>temp.next.val)){
-                if(first==-1){
-                    first=idx;
-                    
-                    last=idx;
-                }
-                else{
-                    min=Math.min(min,idx-last);
-                    last=idx;
-                }
+                if(first==-1) first=idx;
+                else min=Math.min(min,idx-last);
+                last=idx;
             }
             idx++;
             prev=temp;
