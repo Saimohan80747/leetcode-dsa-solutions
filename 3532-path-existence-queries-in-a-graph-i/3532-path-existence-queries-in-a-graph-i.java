@@ -10,15 +10,7 @@ class DisjointSet{
           par[i]=i;
        }
     }
-    // void p(){
-    //     for(int i=0;i<n;i++){
-    //         System.out.print(par[i]+" ");
-    //     }
-    //     System.out.println();
-    //     for(int i=0;i<n;i++){
-    //         System.out.print(rnk[i]+" ");
-    //     }
-    // }
+   
     int findpar(int node){
         if(node==par[node]) return node;
         return par[node]=findpar(par[node]);
@@ -47,7 +39,6 @@ class Solution {
         for(int i=0;i<n-1;i++){
             if(nums[i+1]-nums[i]<=maxDiff) ds.union(i,i+1);
         }
-        // ds.p();
         for(int i=0;i<queries.length;i++){
             int x=queries[i][0];
             int y=queries[i][1];
