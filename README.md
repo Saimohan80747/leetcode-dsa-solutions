@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1377-frog-position-after-t-seconds](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1377-frog-position-after-t-seconds) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1377-frog-position-after-t-seconds](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1377-frog-position-after-t-seconds) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -331,4 +333,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
