@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0130-surrounded-regions) |
+| [0229-majority-element-ii](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0289-game-of-life) |
 | [0486-predict-the-winner](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0486-predict-the-winner) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0018-4sum) |
+| [0229-majority-element-ii](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0274-h-index) |
 | [1288-remove-covered-intervals](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0146-lru-cache) |
+| [0229-majority-element-ii](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0496-next-greater-element-i) |
 | [0752-open-the-lock](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0752-open-the-lock) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0274-h-index) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -336,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
