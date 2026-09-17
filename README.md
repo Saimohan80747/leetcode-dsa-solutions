@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Union-Find
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1563-stone-game-v](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
 |  |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Sliding Window
 |  |
 | ------- |
