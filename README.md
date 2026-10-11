@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0039-combination-sum) |
 | [0057-insert-interval](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0035-search-insert-position) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Biconnected Component
