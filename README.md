@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Game Theory
 |  |
 | ------- |
