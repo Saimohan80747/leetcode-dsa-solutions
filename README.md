@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1563-stone-game-v](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0274-h-index) |
 | [1288-remove-covered-intervals](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Biconnected Component
