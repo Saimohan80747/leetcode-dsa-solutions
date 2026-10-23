@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0525-contiguous-array) |
 | [0752-open-the-lock](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0752-open-the-lock) |
+| [0895-maximum-frequency-stack](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0895-maximum-frequency-stack) |
 | [0930-binary-subarrays-with-sum](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1331-rank-transform-of-an-array](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0146-lru-cache) |
+| [0895-maximum-frequency-stack](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0895-maximum-frequency-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0735-asteroid-collision) |
+| [0895-maximum-frequency-stack](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0895-maximum-frequency-stack) |
 | [1021-remove-outermost-parentheses](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
@@ -390,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
