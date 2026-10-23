@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0146-lru-cache) |
 | [0229-majority-element-ii](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0229-majority-element-ii) |
 | [0454-4sum-ii](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0454-4sum-ii) |
+| [0460-lfu-cache](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0525-contiguous-array) |
 | [0752-open-the-lock](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0752-open-the-lock) |
@@ -270,16 +271,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0234-palindrome-linked-list) |
+| [0460-lfu-cache](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0460-lfu-cache) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0460-lfu-cache) |
 | [0895-maximum-frequency-stack](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0895-maximum-frequency-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0460-lfu-cache) |
 ## Two Pointers
 |  |
 | ------- |
