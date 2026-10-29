@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0130-surrounded-regions) |
 | [0229-majority-element-ii](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0289-game-of-life) |
 | [0454-4sum-ii](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0454-4sum-ii) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0743-network-delay-time) |
 ## Shortest Path
 |  |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0239-sliding-window-maximum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -406,4 +409,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0895-maximum-frequency-stack) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
