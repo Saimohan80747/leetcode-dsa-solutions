@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0289-game-of-life) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0454-4sum-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0525-contiguous-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0062-unique-paths) |
 | [0282-expression-add-operators](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0282-expression-add-operators) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0274-h-index) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1288-remove-covered-intervals](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1552-magnetic-force-between-two-balls) |
