@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1192-critical-connections-in-a-network](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1254-number-of-closed-islands](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1377-frog-position-after-t-seconds](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1377-frog-position-after-t-seconds) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1377-frog-position-after-t-seconds](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1377-frog-position-after-t-seconds) |
 | [2685-count-the-number-of-complete-components](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1109-corporate-flight-bookings) |
 | [1254-number-of-closed-islands](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3665-twisted-mirror-path-count](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Dynamic Programming
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1254-number-of-closed-islands](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2685-count-the-number-of-complete-components](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -350,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0274-h-index) |
+| [1267-count-servers-that-communicate](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/1267-count-servers-that-communicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bit Manipulation
