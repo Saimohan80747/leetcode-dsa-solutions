@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0289-game-of-life) |
+| [0307-range-sum-query-mutable](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0454-4sum-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0146-lru-cache) |
+| [0307-range-sum-query-mutable](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0460-lfu-cache](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0460-lfu-cache) |
 | [0895-maximum-frequency-stack](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0895-maximum-frequency-stack) |
 ## Doubly-Linked List
@@ -463,4 +465,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Saimohan80747/leetcode-dsa-solutions/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
